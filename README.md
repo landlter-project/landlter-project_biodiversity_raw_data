@@ -1,7 +1,7 @@
 <h1>LAND LTER Project</h1>
 <p align="justify">
 LAND LTER (Agricultural Landscape Dynamics and Impacts on Biodiversity) is a Long-Term Ecological Research
-(LTER) project under execution in the Brazilian Cerrado since 2016 (in Portuguese PELD LAND). This project assesses the interactions between agroecosystems and natural vegetation areas and their complexity in high-intensity
+(LTER) project under execution in the Brazilian Cerrado since 2016 (in Portuguese LAND PELD). This project assesses the interactions between agroecosystems and natural vegetation areas and their complexity in high-intensity
 agricultural landscapes in the Cerrado. The landscape is a mosaic of crops, comprising mainly soybean, maize, millet, sorghum in crop rotation system, and pasturelands, interspersed by
 small patches of natural vegetation remnants, such as savannas, forests, and wetlands.
 <p align="center">
