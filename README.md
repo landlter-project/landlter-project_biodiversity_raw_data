@@ -12,15 +12,17 @@ small patches of natural vegetation remnants, such as savannas, forests, and wet
 We are assessing how spatial and temporal characteristics of agricultural landscapes can influence biodiversity and  its interactions, ecosystem functions, and ecosystem services. The biodiversity
 has been analysed in a multi-taxon approach (plants - savannas and forests, freshwater organisms, helmint organisms, Euglossini bees, birds, small non-flying mammals, anurans, reptiles, 
 and Medium and large mammals). Also, non-invasive methods for monitoring biodiversity have been used, such as genetic data (Environment DNA) and remote sensing data 
-(optical remote sensing data and LIDAR).
+(optical remote sensing data and LIDAR). 
 </p>
 
-<h1>See LAND LTER publications here:</h1>
+<h3>All biodiversity raw data obtained since 2016 are available in this repository for download</h3>
+
+<p><em>Please cite this repository and LAND LTER publications when using these data.</em></p>
+
+<h1>See LAND LTER publications here</h1>
 <p align="center">
   <img src="Photos/qrcode.png" width="280">
 </p>
-
-**All biodiversity raw data obtained since 2016 are available in this repository for download.**
 
 <h2>Contact us</h2>
 <p>📧landlter.project@gmail.com</p>
