@@ -25,6 +25,6 @@ and Medium and large mammals). Also, non-invasive methods for monitoring biodive
   <img src="Photos/qrcode.png" width="280">
 </p>
 
-<h2>Contact us</h2>
+<h1>Contact us</h1>
 <p>📧landlter.project@gmail.com</p>
 <p>📷 <a href="https://www.instagram.com/lab.collevatti/">@lab.collevatti</a></p>
