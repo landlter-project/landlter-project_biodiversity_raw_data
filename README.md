@@ -5,8 +5,8 @@ LAND LTER (Agricultural Landscape Dynamics and Impacts on Biodiversity) is a Lon
 agricultural landscapes in the Cerrado. The landscape is a mosaic of crops, comprising mainly soybean, maize, millet, sorghum in crop rotation system, and pasturelands, interspersed by
 small patches of natural vegetation remnants, such as savannas, forests, and wetlands.
 <p align="center">
-  <img src="Photos/photo1.jpeg" width="450">
-  <img src="Photos/photo2.jpeg" width="450">
+  <img src="Photos/photo1.jpeg" width="45%" alt="Photo 1">
+  <img src="Photos/photo2.jpeg" width="45%" alt="Photo 2">
 </p>
 <p align="justify">
 We are assessing how spatial and temporal characteristics of agricultural landscapes can influence biodiversity and  its interactions, ecosystem functions, and ecosystem services. The biodiversity
@@ -15,7 +15,7 @@ and Medium and large mammals). Also, non-invasive methods for monitoring biodive
 (optical remote sensing data and LIDAR).
 </p>
 
-**See LAND LTER publications here:**
+<h1>See LAND LTER publications here:</h1>
 <p align="center">
   <img src="Photos/qrcode.png" width="300">
 </p>
