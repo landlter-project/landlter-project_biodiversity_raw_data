@@ -4,9 +4,16 @@ LAND LTER (Agricultural Landscape Dynamics and Impacts on Biodiversity) is a Lon
 (LTER) project under execution in the Brazilian Cerrado since 2016. This project assesses the interactions between agroecosystems and natural vegetation areas and their complexity in high-intensity
 agricultural landscapes in the Cerrado. The landscape is a mosaic of crops, comprising mainly soybean, maize, millet, sorghum in crop rotation system, and pasturelands, interspersed by
 small patches of natural vegetation remnants, such as savannas, forests, and wetlands.
-</p>
-<img src="Photos/photo1.jpg" width="1000">
-<p align="justify">
+<table align="center">
+  <tr>
+    <td>
+      <img src="Photos/photo1.jpeg" width="400">
+    </td>
+    <td>
+      <img src="Photos/photo2.jpeg" width="400">
+    </td>
+  </tr>
+</table>
 We are assessing how spatial and temporal characteristics of agricultural landscapes can influence biodiversity and  its interactions, ecosystem functions, and ecosystem services. The biodiversity
 has been analysed in a multi-taxon approach (plants - savannas and forests, freshwater organisms, helmint organisms, Euglossini bees, birds, small non-flying mammals, anurans, reptiles, 
 and Medium and large mammals). Also, non-invasive methods for monitoring biodiversity have been used, such as genetic data (Environment DNA) and remote sensing data 
