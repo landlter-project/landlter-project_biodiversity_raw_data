@@ -14,7 +14,8 @@ has been analysed in a multi-taxon approach (plants - savannas and forests, fres
 and Medium and large mammals). Also, non-invasive methods for monitoring biodiversity have been used, such as genetic data (Environment DNA) and remote sensing data 
 (optical remote sensing data and LIDAR). 
 </p>
-
+<p>The LAND LTER is led by <a href="https://collevattilab.com/">Prof. Rosane Collevatti</a>
+</p>
 <h3>All biodiversity raw data obtained since 2016 are available in this repository for download</h3>
 
 <p><em>Please cite this repository and LAND LTER publications when using these data.</em></p>
