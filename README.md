@@ -17,7 +17,7 @@ and Medium and large mammals). Also, non-invasive methods for monitoring biodive
 
 <h1>See LAND LTER publications here:</h1>
 <p align="center">
-  <img src="Photos/qrcode.png" width="300">
+  <img src="Photos/qrcode.png" width="280">
 </p>
 
 **All biodiversity raw data obtained since 2016 are available in this repository for download.**
