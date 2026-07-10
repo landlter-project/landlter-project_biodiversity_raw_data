@@ -16,8 +16,8 @@ and Medium and large mammals). Also, non-invasive methods for monitoring biodive
 
 
 
-All biodiversity raw data obtained since 2016 can be downloaded here [Biodiversity data]().
+**All biodiversity raw data obtained since 2016 are available in this repository for download.**
 
 <h2>Contact us</h2>
 <p>📧landlter.project@gmail.com</p>
-<p>📷@lab.collevatti</p>
+<p>📷@lab.collevatti</p> [Biodiversity data]()
