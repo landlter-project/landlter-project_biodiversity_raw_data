@@ -1,0 +1,450 @@
+Taxa;Project_phase;Plot_number;Longitude;Latitude;Survey_method;Position;Vegetation type;Pixel_value;Land_cover
+Anura;1;1;-48.6300;-16.5800;active_search;NA;NA;15;Pasture
+Anura;1;2;-48.6330;-16.7380;active_search;NA;NA;39;Soybean
+Anura;1;3;-48.5710;-16.6880;active_search;NA;NA;33;River, Lake and Ocean
+Anura;1;4;-48.6620;-16.6540;active_search;NA;NA;21;Mosaic of Uses
+Anura;1;5;-48.5860;-16.6770;active_search;NA;NA;3;Forest Formation
+Anura;1;6;-48.6430;-16.6310;active_search;NA;NA;21;Mosaic of Uses
+Anura;1;7;-48.6780;-16.5860;active_search;NA;NA;3;Forest Formation
+Anura;1;8;-48.6940;-16.7100;active_search;NA;NA;3;Forest Formation
+Anura;1;9;-48.6300;-16.6450;active_search;NA;NA;3;Forest Formation
+Anura;1;10;-48.6120;-16.7380;active_search;NA;NA;3;Forest Formation
+Anura;1;11;-48.6430;-16.5960;active_search;NA;NA;3;Forest Formation
+Anura;1;12;-48.6920;-16.6350;active_search;NA;NA;15;Pasture
+Anura;1;13;-48.6160;-16.6000;active_search;NA;NA;15;Pasture
+Anura;1;14;-48.6680;-16.6300;active_search;NA;NA;15;Pasture
+Anura;1;15;-48.6110;-16.6770;active_search;NA;NA;15;Pasture
+Anura;1;16;-48.6700;-16.6070;active_search;NA;NA;15;Pasture
+Anura;1;17;-48.6020;-16.6470;active_search;NA;NA;3;Forest Formation
+Anura;1;18;-48.6790;-16.7490;active_search;NA;NA;21;Mosaic of Uses
+Anura;1;19;-48.6610;-16.5750;active_search;NA;NA;15;Pasture
+Anura;1;20;-48.6930;-16.6080;active_search;NA;NA;15;Pasture
+Anura;1;21;-48.6390;-16.7360;active_search;NA;NA;15;Pasture
+Anura;1;22;-48.6600;-16.7040;active_search;NA;NA;15;Pasture
+Anura;1;24;-48.6010;-16.7240;active_search;NA;NA;15;Pasture
+Anura;1;25;-48.6730;-16.6790;active_search;NA;NA;15;Pasture
+Anura;1;26;-48.6960;-16.6830;active_search;NA;NA;21;Mosaic of Uses
+Anura;1;28;-48.5270;-16.6480;active_search;NA;NA;15;Pasture
+Bird;1;1;-48.6552;-16.7111;mist-net;NA;NA;4;Savanna Formation
+Bird;1;2;-48.6313;-16.7081;mist-net;NA;NA;3;Forest Formation
+Bird;1;3;-48.6565;-16.7016;mist-net;NA;NA;3;Forest Formation
+Bird;1;4;-48.6753;-16.6836;mist-net;NA;NA;3;Forest Formation
+Bird;1;5;-48.6865;-16.6718;mist-net;NA;NA;4;Savanna Formation
+Bird;1;6;-48.6674;-16.6689;mist-net;NA;NA;4;Savanna Formation
+Bird;1;7;-48.6509;-16.6572;mist-net;NA;NA;3;Forest Formation
+Bird;1;8;-48.6621;-16.6499;mist-net;NA;NA;3;Forest Formation
+Bird;1;9;-48.6210;-16.6526;mist-net;NA;NA;3;Forest Formation
+Bird;1;10;-48.6131;-16.6480;mist-net;NA;NA;3;Forest Formation
+Bird;1;11;-48.6557;-16.6318;mist-net;NA;NA;3;Forest Formation
+Bird;1;12;-48.6623;-16.6384;mist-net;NA;NA;4;Savanna Formation
+Bird;1;13;-48.6691;-16.6330;mist-net;NA;NA;3;Forest Formation
+Bird;1;14;-48.6759;-16.6177;mist-net;NA;NA;3;Forest Formation
+Bird;1;15;-48.6677;-16.6158;mist-net;NA;NA;3;Forest Formation
+Euglossini;1;1;-48.6860;-16.5926;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;2;-48.6821;-16.6040;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;3;-48.7025;-16.6275;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;4;-48.6817;-16.6459;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;5;-48.6808;-16.6243;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;6;-48.6884;-16.6669;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;7;-48.6653;-16.6336;scent_trap;NA;NA;4;Savanna Formation
+Euglossini;1;8;-48.6622;-16.6489;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;9;-48.6492;-16.6359;scent_trap;NA;NA;4;Savanna Formation
+Euglossini;1;10;-48.6707;-16.6755;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;11;-48.6861;-16.7046;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;12;-48.6513;-16.6134;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;13;-48.6412;-16.5960;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;14;-48.6130;-16.6279;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;15;-48.6161;-16.6937;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;16;-48.6273;-16.6800;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;17;-48.6141;-16.6471;scent_trap;NA;NA;3;Forest Formation
+Euglossini;1;18;-48.6451;-16.7113;scent_trap;NA;NA;3;Forest Formation
+Freshwater;1;1;-48.6774;-16.7655;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;2;-48.6527;-16.7340;freshwater species survey captured using different methods/ water analyses;NA;NA;21;Mosaic of Uses
+Freshwater;1;3;-48.6876;-16.7204;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;4;-48.6561;-16.7016;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;5;-48.6328;-16.7067;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;6;-48.6138;-16.6560;freshwater species survey captured using different methods/ water analyses;NA;NA;21;Mosaic of Uses
+Freshwater;1;7;-48.6703;-16.6518;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;8;-48.6566;-16.6291;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;9;-48.6496;-16.6464;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;10;-48.6406;-16.6427;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;11;-48.6127;-16.6528;freshwater species survey captured using different methods/ water analyses;NA;NA;21;Mosaic of Uses
+Freshwater;1;12;-48.5565;-16.6480;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;13;-48.5448;-16.6488;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;15;-48.6406;-16.5713;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;16;-48.7184;-16.5822;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;17;-48.6527;-16.5526;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;18;-48.6179;-16.5741;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;19;-48.6751;-16.5953;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Freshwater;1;20;-48.4650;-16.6401;freshwater species survey captured using different methods/ water analyses;NA;NA;3;Forest Formation
+Reptile;1;1;-48.6562;-16.7120;active_search;NA;NA;4;Savanna Formation
+Reptile;1;2;-48.6365;-16.7074;active_search;NA;NA;3;Forest Formation
+Reptile;1;3;-48.6681;-16.6828;Pitfall;NA;NA;3;Forest Formation
+Reptile;1;4;-48.6680;-16.6678;Pitfall;NA;NA;4;Savanna Formation
+Reptile;1;5;-48.6634;-16.6698;Pitfall;NA;NA;3;Forest Formation
+Reptile;1;6;-48.6805;-16.6367;active_search;NA;NA;4;Savanna Formation
+Reptile;1;7;-48.6625;-16.6366;active_search;NA;NA;4;Savanna Formation
+Reptile;1;8;-48.6527;-16.6331;Pitfall;NA;NA;3;Forest Formation
+Reptile;1;9;-48.6677;-16.6316;Pitfall;NA;NA;3;Forest Formation
+Reptile;1;10;-48.6557;-16.6309;active_search;NA;NA;3;Forest Formation
+Reptile;1;11;-48.6704;-16.6035;active_search;NA;NA;3;Forest Formation
+Reptile;1;12;-48.6552;-16.6205;active_search;NA;NA;15;Pasture
+Reptile;1;13;-48.6670;-16.6155;Pitfall;NA;NA;4;Savanna Formation
+Reptile;1;14;-48.6435;-16.6033;Pitfall;NA;NA;3;Forest Formation
+Reptile;1;15;-48.6639;-16.7005;active_search;NA;NA;9;Forest Plantation
+Reptile;1;16;-48.6593;-16.7015;Pitfall;NA;NA;21;Mosaic of Uses
+Reptile;1;17;-48.6469;-16.6606;Pitfall;NA;NA;4;Savanna Formation
+Reptile;1;18;-48.6318;-16.6346;active_search;NA;NA;3;Forest Formation
+Reptile;1;19;-48.6270;-16.6490;active_search;NA;NA;3;Forest Formation
+Reptile;1;20;-48.6652;-16.6221;active_search;NA;NA;3;Forest Formation
+Reptile;1;21;-48.6506;-16.6418;active_search;NA;NA;21;Mosaic of Uses
+Plant;1;1;-48.6632;-16.6353;plot;NA;Savanna;3;Forest Formation
+Plant;1;2;-48.6680;-16.6329;plot;NA;sdtf;3;Forest Formation
+Plant;1;3;-48.6598;-16.6358;plot;NA;Forested savanna;3;Forest Formation
+Plant;1;4;-48.6630;-16.6456;plot;NA;Savanna;3;Forest Formation
+Plant;1;5;-48.6618;-16.6495;plot;NA;Forested savanna;3;Forest Formation
+Plant;1;6;-48.6636;-16.6370;plot;NA;Savanna;4;Savanna Formation
+Plant;1;7;-48.6581;-16.6367;plot;NA;Savanna;4;Savanna Formation
+Plant;1;8;-48.6628;-16.6350;plot;NA;Savanna;3;Forest Formation
+Plant;1;9;-48.6575;-16.6414;plot;NA;Savanna;4;Savanna Formation
+Plant;1;10;-48.6594;-16.6381;plot;NA;Savanna;4;Savanna Formation
+Plant;1;11;-48.6606;-16.6381;plot;NA;Savanna;4;Savanna Formation
+Plant;1;13;-48.6156;-16.6937;plot;NA;sdtf;3;Forest Formation
+Plant;1;14;-48.6458;-16.6485;plot;NA;Forested savanna;3;Forest Formation
+Plant;1;15;-48.6882;-16.6688;plot;NA;Savanna;3;Forest Formation
+Plant;1;16;-48.6106;-16.6486;plot;NA;sdtf;3;Forest Formation
+Plant;1;17;-48.6076;-16.6487;plot;NA;sdtf;3;Forest Formation
+Plant;1;18;-48.6245;-16.6544;plot;NA;sdtf;3;Forest Formation
+Plant;1;19;-48.6273;-16.6800;plot;NA;Riparian forest;3;Forest Formation
+Plant;1;20;-48.6443;-16.6909;plot;NA;Savanna;3;Forest Formation
+Plant;1;21;-48.6925;-16.5532;plot;NA;Riparian forest;3;Forest Formation
+Plant;1;22;-48.6984;-16.5976;plot;NA;Savanna;4;Savanna Formation
+Plant;1;23;-48.7131;-16.6215;plot;NA;sdtf;3;Forest Formation
+Plant;1;24;-48.7081;-16.6331;plot;NA;Savanna;4;Savanna Formation
+Plant;1;25;-48.6008;-16.5967;plot;NA;Forested savanna;3;Forest Formation
+Plant;1;26;-48.6255;-16.6047;plot;NA;Savanna;4;Savanna Formation
+Plant;1;27;-48.6351;-16.5829;plot;NA;Savanna;4;Savanna Formation
+Plant;1;28;-48.6335;-16.6692;plot;NA;sdtf;3;Forest Formation
+Plant;1;29;-48.6468;-16.6041;plot;NA;sdtf;3;Forest Formation
+Plant;1;30;-48.6496;-16.6231;plot;NA;Savanna;3;Forest Formation
+Plant;1;31;-48.6299;-16.6215;plot;NA;Forested savanna;3;Forest Formation
+Plant;1;32;-48.6583;-16.6768;plot;NA;sdtf;3;Forest Formation
+Plant;1;33;-48.6728;-16.6708;plot;NA;Savanna;4;Savanna Formation
+Plant;1;34;-48.7010;-16.6519;plot;NA;Savanna;4;Savanna Formation
+Plant;1;35;-48.7006;-16.6714;plot;NA;Forested savanna;3;Forest Formation
+Plant;1;36;-48.6309;-16.7143;plot;NA;Savanna;4;Savanna Formation
+Plant;1;37;-48.6451;-16.7113;plot;NA;Riparian forest;3;Forest Formation
+Plant;1;38;-48.6504;-16.7243;plot;NA;Savanna;15;Pasture
+Plant;1;39;-48.6716;-16.7061;plot;NA;Savanna;4;Savanna Formation
+Plant;1;40;-48.6803;-16.7209;plot;NA;Savanna;3;Forest Formation
+Plant;1;41;-48.7172;-16.6757;plot;NA;Riparian forest;3;Forest Formation
+Plant;1;42;-48.7200;-16.7086;plot;NA;Riparian forest;3;Forest Formation
+Plant;1;43;-48.7233;-16.6857;plot;NA;Riparian forest;3;Forest Formation
+Plant;1;44;-48.6140;-16.7336;plot;NA;Savanna;3;Forest Formation
+Plant;1;45;-48.6012;-16.6703;plot;NA;Forested savanna;15;Pasture
+Plant;1;46;-48.6064;-16.6984;plot;NA;Forested savanna;3;Forest Formation
+Plant;1;47;-48.6272;-16.7100;plot;NA;sdtf;3;Forest Formation
+Plant;1;48;-48.6297;-16.7096;plot;NA;sdtf;3;Forest Formation
+Plant;1;49;-48.7027;-16.6709;plot;NA;Savanna;3;Forest Formation
+Plant;1;50;-48.5823;-16.7166;plot;NA;Forested savanna;3;Forest Formation
+Bird;2;1;-49.1320;-16.5505;mist-net;NA;NA;3;Forest Formation
+Bird;2;2;-48.9597;-16.6600;mist-net;NA;NA;3;Forest Formation
+Bird;2;3;-48.7064;-16.7780;mist-net;NA;NA;4;Savanna Formation
+Bird;2;4;-48.6943;-16.5331;mist-net;NA;NA;3;Forest Formation
+Bird;2;5;-48.7805;-16.2325;mist-net;NA;NA;3;Forest Formation
+Bird;2;6;-48.6765;-16.8970;mist-net;NA;NA;4;Savanna Formation
+Bird;2;7;-48.9373;-17.0290;mist-net;NA;NA;3;Forest Formation
+Bird;2;8;-48.6617;-16.6400;mist-net;NA;NA;4;Savanna Formation
+Bird;2;9;-48.6393;-16.4575;mist-net;NA;NA;3;Forest Formation
+Bird;2;10;-48.6598;-16.2916;mist-net;NA;NA;3;Forest Formation
+Bird;2;11;-48.3520;-16.4787;mist-net;NA;NA;12;Grassland Formation
+Bird;2;12;-48.5594;-16.7774;mist-net;NA;NA;3;Forest Formation
+Bird;2;13;-48.5024;-16.5399;mist-net;NA;NA;4;Savanna Formation
+Bird;2;14;-48.0877;-16.8882;mist-net;NA;NA;3;Forest Formation
+Bird;2;15;-49.0842;-16.8710;mist-net;NA;NA;3;Forest Formation
+Bird;2;16;-48.5405;-17.1141;mist-net;NA;NA;15;Pasture
+Bird;2;17;-48.3561;-16.9104;mist-net;NA;NA;3;Forest Formation
+Bird;2;18;-48.2073;-17.0036;mist-net;NA;NA;3;Forest Formation
+Bird;2;19;-48.4800;-16.6737;mist-net;NA;NA;4;Savanna Formation
+Bird;2;20;-48.4654;-16.8582;mist-net;NA;NA;3;Forest Formation
+Bird;2;21;-48.6660;-16.1806;mist-net;NA;NA;4;Savanna Formation
+Euglossini;2;2;-48.9614;-16.6587;scent_trap;NA;NA;3;Forest Formation
+Euglossini;2;3;-48.7030;-16.7776;scent_trap;NA;NA;3;Forest Formation
+Euglossini;2;4;-48.6961;-16.5322;scent_trap;NA;NA;3;Forest Formation
+Euglossini;2;5;-48.7826;-16.2326;scent_trap;NA;NA;3;Forest Formation
+Euglossini;2;6;-48.6761;-16.9008;scent_trap;NA;NA;4;Savanna Formation
+Euglossini;2;7;-48.9377;-17.0307;scent_trap;NA;NA;3;Forest Formation
+Euglossini;2;8;-48.6588;-16.6373;scent_trap;NA;NA;4;Savanna Formation
+Euglossini;2;9;-48.6452;-16.4553;scent_trap;NA;NA;3;Forest Formation
+Euglossini;2;10;-48.6598;-16.2981;scent_trap;NA;NA;3;Forest Formation
+Euglossini;2;11;-48.3531;-16.4801;scent_trap;NA;NA;12;Grassland Formation
+Euglossini;2;12;-48.5585;-16.7775;scent_trap;NA;NA;3;Forest Formation
+Euglossini;2;13;-48.4998;-16.5397;scent_trap;NA;NA;4;Savanna Formation
+Euglossini;2;14;-48.1125;-16.8748;scent_trap;NA;NA;4;Savanna Formation
+Euglossini;2;15;-49.0832;-16.8592;scent_trap;NA;NA;3;Forest Formation
+Euglossini;2;16;-48.5361;-17.1377;scent_trap;NA;NA;4;Savanna Formation
+Euglossini;2;17;-48.3597;-16.9107;scent_trap;NA;NA;3;Forest Formation
+Euglossini;2;18;-48.2073;-16.9986;scent_trap;NA;NA;3;Forest Formation
+Euglossini;2;19;-48.4831;-16.6715;scent_trap;NA;NA;4;Savanna Formation
+Euglossini;2;20;-48.4687;-16.8602;scent_trap;NA;NA;3;Forest Formation
+Euglossini;2;21;-48.6691;-16.1851;scent_trap;NA;NA;3;Forest Formation
+Helminth;2;P1;-49.1387;-16.5641;Sherman_live_trap;NA;NA;15;Pasture
+Helminth;2;P1;-49.1367;-16.5619;Sherman_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P1;-49.1309;-16.5637;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P1;-49.1325;-16.5635;Sherman_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P1;-49.1331;-16.5523;Sherman_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P10;-48.6589;-16.2928;Sherman_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P10;-48.6574;-16.2924;Sherman_live_trap;NA;NA;39;Soybean
+Helminth;2;P10;-48.6586;-16.2942;Sherman_live_trap;NA;NA;39;Soybean
+Helminth;2;P10;-48.6557;-16.2904;Sherman_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P11;-48.3582;-16.4825;Tomahawk_live_trap;NA;NA;4;Savanna Formation
+Helminth;2;P12;-48.5582;-16.7811;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P12;-48.5494;-16.7787;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P13;-48.4996;-16.5367;Tomahawk_live_trap;NA;NA;39;Soybean
+Helminth;2;P13;-48.4991;-16.5400;Tomahawk_live_trap;NA;NA;15;Pasture
+Helminth;2;P13;-48.4991;-16.5424;Tomahawk_live_trap;NA;NA;39;Soybean
+Helminth;2;P14;-48.1101;-16.8746;Sherman_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P14;-48.1069;-16.8773;Tomahawk_live_trap;NA;NA;4;Savanna Formation
+Helminth;2;P14;-48.1088;-16.8761;Tomahawk_live_trap;NA;NA;15;Pasture
+Helminth;2;P14;-48.0952;-16.8908;Tomahawk_live_trap;NA;NA;4;Savanna Formation
+Helminth;2;P15;-49.0731;-16.8731;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P15;-49.0717;-16.8761;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P16;-48.5383;-17.1124;Sherman_live_trap;NA;NA;15;Pasture
+Helminth;2;P17;-48.3648;-16.9091;Sherman_live_trap;NA;NA;39;Soybean
+Helminth;2;P17;-48.3601;-16.9106;Tomahawk_live_trap;NA;NA;4;Savanna Formation
+Helminth;2;P18;-48.2056;-17.0009;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P19;-48.4828;-16.6709;Sherman_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P20;-48.4673;-16.8601;Sherman_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P20;-48.4679;-16.8576;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P20;-48.4695;-16.8585;Sherman_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P21;-48.6679;-16.1879;Tomahawk_live_trap;NA;NA;4;Savanna Formation
+Helminth;2;P21;-48.6656;-16.1748;Sherman_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P21;-48.6704;-16.1848;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P4;-48.6981;-16.5329;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P4;-48.6922;-16.5320;Tomahawk_live_trap;NA;NA;15;Pasture
+Helminth;2;P4;-48.6884;-16.5289;Tomahawk_live_trap;NA;NA;15;Pasture
+Helminth;2;P4;-48.6924;-16.5273;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P4;-48.6930;-16.5316;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P5;-48.7817;-16.2319;Sherman_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P6;-48.6751;-16.8996;Tomahawk_live_trap;NA;NA;4;Savanna Formation
+Helminth;2;P6;-48.6757;-16.9012;Tomahawk_live_trap;NA;NA;4;Savanna Formation
+Helminth;2;P7;-48.9378;-17.0308;Sherman_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P8;-48.6747;-16.6371;Tomahawk_live_trap;NA;NA;4;Savanna Formation
+Helminth;2;P8;-48.6754;-16.6390;Tomahawk_live_trap;NA;NA;39;Soybean
+Helminth;2;P8;-48.6583;-16.6375;Tomahawk_live_trap;NA;NA;4;Savanna Formation
+Helminth;2;P8;-48.6568;-16.6506;Tomahawk_live_trap;NA;NA;39;Soybean
+Helminth;2;P9;-48.6420;-16.4561;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Helminth;2;P9;-48.6384;-16.4573;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Reptile;2;1;-49.1355;-16.5629;active_search;edge;NA;3;Forest Formation
+Reptile;2;1;-49.1317;-16.5642;active_search;matrix;NA;3;Forest Formation
+Reptile;2;1;-49.1350;-16.5515;active_search;core;NA;3;Forest Formation
+Reptile;2;2;-48.9612;-16.6604;active_search;edge;NA;3;Forest Formation
+Reptile;2;2;-48.9625;-16.6619;active_search;matrix;NA;15;Pasture
+Reptile;2;3;-48.7070;-16.7731;active_search;matrix;NA;39;Soybean
+Reptile;2;3;-48.7041;-16.7797;active_search;core;NA;3;Forest Formation
+Reptile;2;4;-48.6922;-16.5269;active_search;edge;NA;3;Forest Formation
+Reptile;2;4;-48.6876;-16.5290;active_search;matrix;NA;15;Pasture
+Reptile;2;5;-48.7762;-16.2316;active_search;edge;NA;3;Forest Formation
+Reptile;2;5;-48.7768;-16.2333;active_search;matrix;NA;15;Pasture
+Reptile;2;5;-48.7814;-16.2324;active_search;core;NA;3;Forest Formation
+Reptile;2;6;-48.6730;-16.9064;active_search;edge;NA;15;Pasture
+Reptile;2;6;-48.6762;-16.8973;active_search;core;NA;4;Savanna Formation
+Reptile;2;7;-48.9378;-17.0309;active_search;edge;NA;3;Forest Formation
+Reptile;2;7;-48.9407;-17.0312;active_search;matrix;NA;39;Soybean
+Reptile;2;7;-48.9367;-17.0282;active_search;core;NA;3;Forest Formation
+Reptile;2;8;-48.6539;-16.6480;active_search;edge;NA;4;Savanna Formation
+Reptile;2;8;-48.6534;-16.6500;active_search;matrix;NA;39;Soybean
+Reptile;2;8;-48.6615;-16.6401;active_search;core;NA;4;Savanna Formation
+Reptile;2;9;-48.6423;-16.4552;active_search;edge;NA;3;Forest Formation
+Reptile;2;9;-48.6436;-16.4545;active_search;matrix;NA;15;Pasture
+Reptile;2;9;-48.6324;-16.4542;active_search;core;NA;3;Forest Formation
+Reptile;2;10;-48.6589;-16.2928;active_search;edge;NA;3;Forest Formation
+Reptile;2;10;-48.6538;-16.2930;active_search;matrix;NA;39;Soybean
+Reptile;2;10;-48.6600;-16.2917;active_search;core;NA;3;Forest Formation
+Reptile;2;11;-48.3686;-16.4929;active_search;edge;NA;12;Grassland Formation
+Reptile;2;11;-48.3723;-16.4837;active_search;matrix;NA;39;Soybean
+Reptile;2;11;-48.3546;-16.4764;active_search;core;NA;4;Savanna Formation
+Reptile;2;12;-48.5486;-16.7775;active_search;edge;NA;3;Forest Formation
+Reptile;2;12;-48.5505;-16.7712;active_search;matrix;NA;39;Soybean
+Reptile;2;12;-48.5596;-16.7780;active_search;core;NA;3;Forest Formation
+Reptile;2;13;-48.5000;-16.5382;active_search;edge;NA;39;Soybean
+Reptile;2;13;-48.5014;-16.5336;active_search;matrix;NA;21;Mosaic of Uses
+Reptile;2;13;-48.5023;-16.5391;active_search;core;NA;3;Forest Formation
+Reptile;2;14;-48.1074;-16.8767;active_search;edge;NA;15;Pasture
+Reptile;2;14;-48.1140;-16.8707;active_search;matrix;NA;15;Pasture
+Reptile;2;14;-48.0891;-16.8881;active_search;core;NA;3;Forest Formation
+Reptile;2;15;-49.0889;-16.8673;active_search;edge;NA;3;Forest Formation
+Reptile;2;15;-49.0870;-16.8668;active_search;matrix;NA;15;Pasture
+Reptile;2;15;-49.0852;-16.8703;active_search;core;NA;3;Forest Formation
+Reptile;2;16;-48.5333;-17.0990;active_search;edge;NA;4;Savanna Formation
+Reptile;2;16;-48.5394;-17.1057;active_search;core;NA;3;Forest Formation
+Reptile;2;17;-48.3616;-16.9110;active_search;edge;NA;4;Savanna Formation
+Reptile;2;17;-48.3641;-16.9104;active_search;matrix;NA;39;Soybean
+Reptile;2;17;-48.3581;-16.9106;active_search;core;NA;4;Savanna Formation
+Reptile;2;18;-48.2040;-17.0034;active_search;edge;NA;3;Forest Formation
+Reptile;2;18;-48.2076;-17.0029;active_search;core;NA;3;Forest Formation
+Reptile;2;19;-48.4884;-16.6736;active_search;edge;NA;3;Forest Formation
+Reptile;2;19;-48.4867;-16.6702;active_search;matrix;NA;39;Soybean
+Reptile;2;19;-48.4794;-16.6733;active_search;core;NA;4;Savanna Formation
+Reptile;2;20;-48.4671;-16.8553;active_search;edge;NA;21;Mosaic of Uses
+Reptile;2;20;-48.4690;-16.8528;active_search;matrix;NA;39;Soybean
+Reptile;2;20;-48.4662;-16.8582;active_search;core;NA;3;Forest Formation
+Reptile;2;21;-48.6656;-16.1749;active_search;edge;NA;3;Forest Formation
+Reptile;2;21;-48.6643;-16.1742;active_search;matrix;NA;15;Pasture
+Reptile;2;21;-48.6701;-16.1846;active_search;core;NA;3;Forest Formation
+Large mammals;2;p01;-49.1319;-16.5525;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p01;-49.1340;-16.5518;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p01;-49.1320;-16.5540;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p01;-49.1329;-16.5524;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p02;-48.9618;-16.6581;camera trap;NA;NA;9;Forest Plantation
+Large mammals;2;p02;-48.9609;-16.6587;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p02;-48.9600;-16.6598;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p02;-48.9583;-16.6660;camera trap;NA;NA;15;Pasture
+Large mammals;2;p03;-48.7007;-16.7832;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p03;-48.7006;-16.7819;camera trap;NA;NA;4;Savanna Formation
+Large mammals;2;p03;-48.7026;-16.7798;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p03;-48.7029;-16.7822;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p04;-48.6977;-16.5331;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p04;-48.6952;-16.5325;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p04;-48.6953;-16.5306;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p04;-48.6969;-16.5280;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p05;-48.7808;-16.2325;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p05;-48.7815;-16.2320;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p05;-48.7794;-16.2329;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p05;-48.7813;-16.2335;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p06;-48.6732;-16.8986;camera trap;NA;NA;4;Savanna Formation
+Large mammals;2;p06;-48.6714;-16.8970;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p06;-48.6704;-16.8998;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p06;-48.6736;-16.9004;camera trap;NA;NA;4;Savanna Formation
+Large mammals;2;p07;-48.9374;-17.0297;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p07;-48.9367;-17.0285;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p07;-48.9363;-17.0271;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p07;-48.9371;-17.0268;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p08;-48.6637;-16.6298;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p08;-48.6573;-16.6629;camera trap;NA;NA;39;Soybean
+Large mammals;2;p08;-48.6564;-16.6323;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p08;-48.6587;-16.6358;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p09;-48.6420;-16.4555;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p09;-48.6429;-16.4528;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p09;-48.6441;-16.4533;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p09;-48.6447;-16.4555;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p10;-48.6556;-16.2900;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p10;-48.6569;-16.2914;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p10;-48.6580;-16.2920;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p10;-48.6593;-16.2925;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p11;-48.3430;-16.4532;camera trap;NA;NA;4;Savanna Formation
+Large mammals;2;p11;-48.3446;-16.4528;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p11;-48.3455;-16.4568;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p11;-48.3447;-16.4562;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p12;-48.5577;-16.7847;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p12;-48.5619;-16.7815;camera trap;NA;NA;4;Savanna Formation
+Large mammals;2;p12;-48.5595;-16.7779;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p12;-48.5578;-16.7773;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p13;-48.5028;-16.5395;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p13;-48.5044;-16.5390;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p13;-48.5058;-16.5366;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p13;-48.5040;-16.5373;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p14;-48.0872;-16.8883;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p14;-48.0888;-16.8900;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p14;-48.0880;-16.8885;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p14;-48.0891;-16.8887;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p15;-49.0844;-16.8702;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p15;-49.0825;-16.8703;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p15;-49.0851;-16.8711;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p15;-49.0869;-16.8704;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p16;-48.5525;-17.1087;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p16;-48.5515;-17.1105;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p16;-48.5562;-17.1088;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p16;-48.5562;-17.1131;camera trap;NA;NA;4;Savanna Formation
+Large mammals;2;p17;-48.3586;-16.9135;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p17;-48.3594;-16.9115;camera trap;NA;NA;4;Savanna Formation
+Large mammals;2;p17;-48.3553;-16.9098;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p17;-48.3606;-16.9092;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p18;-48.2058;-17.0046;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p18;-48.2084;-17.0057;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p18;-48.2091;-17.0007;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p18;-48.2096;-17.0033;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p19;-48.4811;-16.6710;camera trap;NA;NA;4;Savanna Formation
+Large mammals;2;p19;-48.4794;-16.6748;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p19;-48.4807;-16.6729;camera trap;NA;NA;4;Savanna Formation
+Large mammals;2;p19;-48.4837;-16.6726;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p20;-48.4656;-16.8589;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p20;-48.4683;-16.8575;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p20;-48.4659;-16.8559;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p20;-48.4696;-16.8594;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p21;-48.6639;-16.1763;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p21;-48.6617;-16.1744;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p21;-48.6602;-16.1750;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p21;-48.6654;-16.1803;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p22;-48.4439;-16.3794;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p22;-48.4422;-16.3751;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p22;-48.4432;-16.3772;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p23;-49.3459;-16.8727;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p23;-49.3459;-16.8729;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p23;-49.3474;-16.8738;camera trap;NA;NA;3;Forest Formation
+Large mammals;2;p23;-49.3469;-16.8728;camera trap;NA;NA;3;Forest Formation
+Plant;2;1;-49.1344;-16.5530;plot;NA;sdtf;3;Forest Formation
+Plant;2;2;-48.9680;-16.6449;plot;NA;Savanna;3;Forest Formation
+Plant;2;2;-48.9524;-16.6597;plot;NA;sdtf;3;Forest Formation
+Plant;2;3;-48.7088;-16.7677;plot;NA;Savanna;3;Forest Formation
+Plant;2;3;-48.7037;-16.7790;plot;NA;sdtf;3;Forest Formation
+Plant;2;4;-48.6943;-16.5266;plot;NA;Savanna;4;Savanna Formation
+Plant;2;4;-48.6928;-16.5274;plot;NA;Riparian forest;3;Forest Formation
+Plant;2;5;-48.7739;-16.2285;plot;NA;Savanna;4;Savanna Formation
+Plant;2;5;-48.7816;-16.2329;plot;NA;sdtf;3;Forest Formation
+Plant;2;6;-48.6754;-16.9006;plot;NA;Savanna;4;Savanna Formation
+Plant;2;6;-48.6669;-16.8891;plot;NA;sdtf;3;Forest Formation
+Plant;2;7;-48.9600;-17.0018;plot;NA;Savanna;3;Forest Formation
+Plant;2;7;-48.9373;-17.0298;plot;NA;sdtf;3;Forest Formation
+Plant;2;8;-48.6633;-16.6352;plot;NA;Savanna;4;Savanna Formation
+Plant;2;8;-48.6677;-16.6327;plot;NA;sdtf;3;Forest Formation
+Plant;2;9;-48.6493;-16.4532;plot;NA;Savanna;4;Savanna Formation
+Plant;2;9;-48.6420;-16.4570;plot;NA;sdtf;3;Forest Formation
+Plant;2;10;-48.6516;-16.3385;plot;NA;Savanna;15;Pasture
+Plant;2;10;-48.6573;-16.2920;plot;NA;Riparian forest;3;Forest Formation
+Plant;2;11;-48.3353;-16.4587;plot;NA;Savanna;4;Savanna Formation
+Plant;2;11;-48.3872;-16.4906;plot;NA;Riparian forest;3;Forest Formation
+Plant;2;12;-48.5626;-16.7759;plot;NA;Savanna;4;Savanna Formation
+Plant;2;12;-48.5306;-16.7746;plot;NA;sdtf;3;Forest Formation
+Plant;2;13;-48.5127;-16.5487;plot;NA;Savanna;4;Savanna Formation
+Plant;2;13;-48.5031;-16.5396;plot;NA;Riparian forest;3;Forest Formation
+Plant;2;14;-48.0969;-16.8895;plot;NA;Savanna;4;Savanna Formation
+Plant;2;14;-48.0877;-16.8884;plot;NA;Riparian forest;3;Forest Formation
+Plant;2;15;-49.0840;-16.8604;plot;NA;Savanna;4;Savanna Formation
+Plant;2;15;-49.0845;-16.8718;plot;NA;sdtf;3;Forest Formation
+Plant;2;16;-48.5404;-17.1145;plot;NA;Savanna;15;Pasture
+Plant;2;16;-48.5137;-17.0548;plot;NA;Riparian forest;3;Forest Formation
+Plant;2;17;-48.3598;-16.9112;plot;NA;Savanna;4;Savanna Formation
+Plant;2;17;-48.3775;-16.8924;plot;NA;sdtf;3;Forest Formation
+Plant;2;18;-48.2064;-17.0023;plot;NA;Savanna;3;Forest Formation
+Plant;2;18;-48.2053;-16.9861;plot;NA;sdtf;3;Forest Formation
+Plant;2;19;-48.4838;-16.6711;plot;NA;Savanna;4;Savanna Formation
+Plant;2;19;-48.4932;-16.6734;plot;NA;sdtf;3;Forest Formation
+Plant;2;20;-48.5077;-16.8297;plot;NA;Savanna;4;Savanna Formation
+Plant;2;20;-48.4672;-16.8600;plot;NA;sdtf;3;Forest Formation
+Plant;2;21;-48.6698;-16.1855;plot;NA;Savanna;4;Savanna Formation
+Plant;2;21;-48.6700;-16.1847;plot;NA;sdtf;3;Forest Formation
+Small mammal;2;P12;-48.5523;-16.7763;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P13;-48.5043;-16.5387;Sherman_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P13;-48.5004;-16.5382;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P17;-48.3622;-16.9127;Tomahawk_live_trap;NA;NA;39;Soybean
+Small mammal;2;P17;-48.3572;-16.9137;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P18;-48.2079;-16.9958;Sherman_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P19;-48.4884;-16.6740;Sherman_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P19;-48.4830;-16.6730;Sherman_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P2;-48.4654;-16.8582;Sherman_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P2;-48.9608;-16.6586;Sherman_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P2;-48.9625;-16.6597;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P20;-48.4749;-16.8567;Sherman_live_trap;NA;NA;39;Soybean
+Small mammal;2;P21;-48.6664;-16.1729;Tomahawk_live_trap;NA;NA;15;Pasture
+Small mammal;2;P21;-48.6663;-16.1717;Sherman_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P3;-48.7064;-16.7761;Tomahawk_live_trap;NA;NA;4;Savanna Formation
+Small mammal;2;P3;-48.7025;-16.7768;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P5;-48.7761;-16.2314;Tomahawk_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P5;-48.7832;-16.2323;Sherman_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P6;-48.6735;-16.9018;Sherman_live_trap;NA;NA;4;Savanna Formation
+Small mammal;2;P7;-48.9375;-17.0257;Sherman_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P7;-48.9367;-17.0273;Sherman_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P7;-48.9369;-17.0293;Sherman_live_trap;NA;NA;3;Forest Formation
+Small mammal;2;P8;-48.6534;-16.6481;Sherman_live_trap;NA;NA;4;Savanna Formation
+Small mammal;2;P9;-48.6424;-16.4534;Sherman_live_trap;NA;NA;3;Forest Formation
