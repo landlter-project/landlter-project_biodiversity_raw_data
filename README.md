@@ -28,3 +28,5 @@ and medium and large mammals). Also, non-invasive methods for biodiversity monit
 <h1>Contact us</h1>
 <p>📧landlter.project@gmail.com</p>
 <p>📷 <a href="https://www.instagram.com/lab.collevatti/">@lab.collevatti</a></p>
+
+LAND LTER - Agricultural landscape dynamics and impacts on biodiversity: the dataset of a long-term ecological project ©️ 2026 by Rosane G Collevatti is licensed under CC BY-NC-SA 4.0
