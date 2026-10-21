@@ -1,0 +1,34 @@
+Metadata for Euglossini bees survey December/2017 to March/2018,,
+bees were identified by Dr. Daniel  P Silva and Dr Fernanda G Souza and all captured individuals were deposited in UFG zoological collection,,
+data curated by Professor Rosane G Collevatti,,
+,,
+Euglossini_survey_phase1 sheet,,
+,,
+,,
+,,
+,,
+,vegetation_type,"type of vegetation savanna, forest - mixed forest vegetation of seasonally dry tropical  forest and riparian forest"
+,Long,"longitude coordinate in decimal degrees, corresponding to the plot centre"
+,Lat,"latitude coordinate in decimal degrees, corresponding to the plot centre"
+,,
+,,
+,essential_oil,"scent type used in the scent trap - Eucalyptol, vanillin, benzyl acetate, eugenol, methyl salicylate, "
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+Euglossini_survey_phase2 sheet,,
+,,
+,,
+,,
+,,
+,vegetation_type,"type of vegetation savanna, forest - mixed forest vegetation of seasonally dry tropical  forest and riparian forest"
+,Long,"longitude coordinate in decimal degrees, corresponding to the centroid of the landscape (centroid of all grids in the plot)"
+,Lat,"latitude coordinate in decimal degrees,corresponding to the centroid of the landscape (centroid of all grids in the plot)"
+,,
+,,
+,landscape_matrix,"type of plantation in the matrix - pasture (plantation), agriculture (mainly soybean in rotation with corn, sorghum or millet)"
+,survey_location,"location of the grid in the landscape - core - grids were set in the core of the natural vegetation remnant, edge - grids were set in the natural vegetation remnant, matrix - grids were set in the matrix"

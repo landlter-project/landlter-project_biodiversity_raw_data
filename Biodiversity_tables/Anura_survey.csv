@@ -1,0 +1,292 @@
+project_phase,plot_number,date,time,waterbody,vegetation_type,landscape_matrix,Long,Lat,survey_method,voucher_number,individual_id,Species,Order,Family,life_stage,gender
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14200,PA139,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14174,PA140,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14201,PA141,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14202,PA142,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14203,PA144,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14204,PA145,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14205,PA146,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14206,PA147,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14207,PA148,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14259,PA149,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14175,PA151,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14209,PA152,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14270,PA153,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14338,PA154,Physalaemus nattereri,Anura,Leptodactylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14339,PA155,Physalaemus nattereri,Anura,Leptodactylidae,adult,female
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14181,PA156,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14260,PA158,Boana raniceps,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14145,PA143,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14208,PA150,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,1,2018-09-25,night,permanent_pond,bare_soil,mining,-48.63,-16.58,active_search,ZUFG14135,PA157,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,2,2018-03-06,night,permanent_damn,riparian_forest,agriculture,-48.63,-16.74,active_search,ZUFG12586,PA032,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,2,2018-03-06,night,permanent_damn,riparian_forest,agriculture,-48.63,-16.74,active_search,ZUFG12587,PA033,Barycholos ternetzi,Anura,Craugastoridae,juvenile,NA
+1,2,2018-03-06,night,permanent_damn,riparian_forest,agriculture,-48.63,-16.74,active_search,ZUFG12588,PA034,Scinax aff. fuscomarginatus,Anura,Hylidae,adult,male
+1,2,2018-03-06,night,permanent_damn,riparian_forest,agriculture,-48.63,-16.74,active_search,ZUFG12589,PA035,Scinax aff. fuscomarginatus,Anura,Hylidae,adult,female
+1,2,2018-03-06,night,permanent_damn,riparian_forest,agriculture,-48.63,-16.74,active_search,ZUFG12590,PA036,Boana albopunctata,Anura,Hylidae,juvenile,NA
+1,2,2018-03-06,night,permanent_damn,riparian_forest,agriculture,-48.63,-16.74,active_search,ZUFG12591,PA037,Dendropsophus cruzi,Anura,Hylidae,adult,male
+1,2,2018-03-06,night,permanent_damn,riparian_forest,agriculture,-48.63,-16.74,active_search,ZUFG12592,PA038,Dendropsophus cruzi,Anura,Hylidae,adult,male
+1,2,2018-09-24,night,permanent_damn,riparian_forest,agriculture,-48.63,-16.74,active_search,ZUFG14216,PA103,Boana albopunctata,Anura,Hylidae,adult,male
+1,2,2018-09-24,night,permanent_damn,riparian_forest,agriculture,-48.63,-16.74,active_search,ZUFG14225,PA104,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,2,2018-09-24,night,permanent_damn,riparian_forest,agriculture,-48.63,-16.74,active_search,ZUFG14249,PA105,Physalaemus centralis,Anura,Leptodactylidae,adult,male
+1,2,2018-09-24,night,permanent_damn,riparian_forest,agriculture,-48.63,-16.74,active_search,ZUFG14250,PA106,Physalaemus centralis,Anura,Leptodactylidae,adult,male
+1,2,2018-09-24,night,permanent_damn,riparian_forest,agriculture,-48.63,-16.74,active_search,ZUFG14178,PA107,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,2,2018-09-24,night,permanent_damn,riparian_forest,agriculture,-48.63,-16.74,active_search,ZUFG14179,PA108,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,3,2019-04-09,night,permanent_damn,riparian_forest,pasture,-48.57,-16.69,active_search,ZUFG14280,PA324,Scinax cf. similis,Anura,Hylidae,adult,NA
+1,4,2018-09-27,night,permanent_damn,riparian_forest,agriculture,-48.66,-16.65,active_search,ZUFG14185,PA176,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,4,2018-09-27,night,permanent_damn,riparian_forest,agriculture,-48.66,-16.65,active_search,ZUFG14136,PA175,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,5,2019-01-31,night,permanent_damn,riparian_forest,pasture,-48.59,-16.68,active_search,ZUFG14383,PA321,Scinax cf. similis,Anura,Hylidae,adult,NA
+1,5,2019-01-31,night,permanent_damn,riparian_forest,pasture,-48.59,-16.68,active_search,ZUFG14384,PA322,Scinax cf. similis,Anura,Hylidae,adult,NA
+1,5,2019-01-31,night,permanent_damn,riparian_forest,pasture,-48.59,-16.68,active_search,ZUFG14359,PA323,Boana raniceps,Anura,Hylidae,adult,male
+1,6,2018-01-25,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG12578,PA020,Dendropsophus melanargyreus,Anura,Hylidae,adult,male
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14186,PA190,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14187,PA192,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14188,PA193,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14189,PA194,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14190,PA196,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14191,PA197,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14192,PA198,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14193,PA199,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14194,PA200,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14214,PA202,Scinax fuscovarius,Anura,Hylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14177,PA203,Scinax fuscovarius,Anura,Hylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14215,PA204,Scinax fuscovarius,Anura,Hylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14150,PA189,Leptodactylus mystacinus,Anura,Leptodactylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14133,PA191,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14137,PA195,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,6,2018-09-27,night,temporary_pond,eucalyptus_plantation,pasture,-48.64,-16.63,active_search,ZUFG14151,PA201,Barycholos ternetzi,Anura,Craugastoridae,adult,NA
+1,7,2018-09-25,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG14147,PA125,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,7,2018-09-25,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG14134,PA126,Leptodactylus fuscus,Anura,Leptodactylidae,adult,male
+1,7,2018-03-10,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG12796,PA078,Boana lundii,Anura,Hylidae,adult,NA
+1,7,2018-03-10,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG12797,PA079,Boana raniceps,Anura,Hylidae,adult,NA
+1,7,2018-03-10,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG12798,PA080,Rhinella aff. cerradensis,Anura,Bufonidae,adult,NA
+1,7,2018-03-10,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG12799,PA081,Pthecopus hypochondrialis,Anura,Phyllomedusidae,adult,NA
+1,7,2018-03-10,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG12800,PA082,Leptodactylus labyrintycus,Anura,Leptodactylidae,adult,NA
+1,7,2018-03-10,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG12802,PA083,Boana albopunctata,Anura,Hylidae,juvenile,NA
+1,7,2018-09-25,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG14219,PA117,Boana albopunctata,Anura,Hylidae,adult,male
+1,7,2018-09-25,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG14220,PA118,Boana albopunctata,Anura,Hylidae,adult,NA
+1,7,2018-09-25,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG14221,PA119,Boana albopunctata,Anura,Hylidae,adult,male
+1,7,2018-09-25,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG14180,PA120,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,7,2018-09-25,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG14226,PA121,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,7,2018-09-25,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG14227,PA122,Physalaemus atim,Anura,Leptodactylidae,adult,male
+1,7,2018-09-25,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG14228,PA123,Physalaemus atim,Anura,Leptodactylidae,adult,male
+1,7,2018-09-25,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG14229,PA124,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,7,2018-09-25,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG14141,PA127,Boana raniceps,Anura,Hylidae,adult,male
+1,7,2018-09-25,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG14222,PA128,Boana albopunctata,Anura,Hylidae,adult,male
+1,7,2018-09-25,night,rivulet_backwater,riparian_forest,pasture,-48.68,-16.59,active_search,ZUFG14230,PA129,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,8,2018-01-25,night,rivulet_backwater,riparian_forest,pasture,-48.69,-16.71,active_search,ZUFG12576,PA018,Rhinella rubescens,Anura,Bufonidae,juvenile,NA
+1,8,2018-01-25,night,rivulet_backwater,riparian_forest,pasture,-48.69,-16.71,active_search,ZUFG12577,PA019,Leptodactylus labyrintycus,Anura,Leptodactylidae,juvenile,NA
+1,8,2018-03-06,night,rivulet_backwater,riparian_forest,pasture,-48.69,-16.71,active_search,ZUFG12593,PA039,Ololygon sp.,Anura,Hylidae,adult,NA
+1,8,2018-03-06,night,rivulet_backwater,riparian_forest,pasture,-48.69,-16.71,active_search,ZUFG12594,PA040,Ololygon sp.,Anura,Hylidae,adult,NA
+1,8,2018-03-06,night,rivulet_backwater,riparian_forest,pasture,-48.69,-16.71,active_search,ZUFG12595,PA041,Boana lundii,Anura,Hylidae,adult,male
+1,8,2018-03-06,night,rivulet_backwater,riparian_forest,pasture,-48.69,-16.71,active_search,ZUFG12596,PA042,Proceratophrys sp.,Anura,Ceratophryidae,adult,male
+1,9,2019-01-27,night,permanent_pond,riparian_forest,pasture,-48.63,-16.65,active_search,ZUFG14340,PA270,Boana albopunctata,Anura,Hylidae,adult,male
+1,9,2019-01-27,night,permanent_pond,riparian_forest,pasture,-48.63,-16.65,active_search,ZUFG14341,PA271,Boana albopunctata,Anura,Hylidae,adult,male
+1,9,2019-01-27,night,permanent_pond,riparian_forest,pasture,-48.63,-16.65,active_search,ZUFG14342,PA272,Pseudis bolbodactyla,Anura,Hylidae,adult,male
+1,9,2019-01-27,night,permanent_pond,riparian_forest,pasture,-48.63,-16.65,active_search,ZUFG14343,PA273,Pseudis bolbodactyla,Anura,Hylidae,adult,male
+1,9,2019-01-27,night,permanent_pond,riparian_forest,pasture,-48.63,-16.65,active_search,ZUFG14344,PA274,Pthecopus hypochondrialis,Anura,Phyllomedusidae,adult,male
+1,10,2019-01-30,night,permanent_pond,riparian_forest,pasture_agriculture,-48.61,-16.74,active_search,ZUFG14347,PA307,Boana albopunctata,Anura,Hylidae,adult,male
+1,10,2019-01-30,night,permanent_pond,riparian_forest,pasture_agriculture,-48.61,-16.74,active_search,ZUFG14348,PA308,Boana albopunctata,Anura,Hylidae,adult,male
+1,10,2019-01-30,night,permanent_pond,riparian_forest,pasture_agriculture,-48.61,-16.74,active_search,ZUFG14349,PA309,Boana albopunctata,Anura,Hylidae,adult,male
+1,10,2019-01-30,night,permanent_pond,riparian_forest,pasture_agriculture,-48.61,-16.74,active_search,ZUFG14350,PA310,Boana albopunctata,Anura,Hylidae,adult,male
+1,10,2019-01-30,night,permanent_pond,riparian_forest,pasture_agriculture,-48.61,-16.74,active_search,ZUFG14351,PA311,Boana albopunctata,Anura,Hylidae,adult,male
+1,10,2019-01-30,night,permanent_pond,riparian_forest,pasture_agriculture,-48.61,-16.74,active_search,ZUFG14393,PA312,Scinax cf. similis,Anura,Hylidae,adult,male
+1,10,2019-01-30,night,permanent_pond,riparian_forest,pasture_agriculture,-48.61,-16.74,active_search,ZUFG14394,PA313,Scinax cf. similis,Anura,Hylidae,adult,male
+1,10,2019-01-30,night,permanent_pond,riparian_forest,pasture_agriculture,-48.61,-16.74,active_search,ZUFG14352,PA314,Scinax fuscomarginatus,Anura,Hylidae,adult,male
+1,10,2019-01-30,night,permanent_pond,riparian_forest,pasture_agriculture,-48.61,-16.74,active_search,ZUFG14353,PA315,Scinax fuscomarginatus,Anura,Hylidae,adult,male
+1,11,2018-01-24,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12568,PA010,Dendropsophus minutus,Anura,Hylidae,adult,NA
+1,11,2018-01-24,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12569,PA011,Leptodactylus mystaceus,Anura,Leptodactylidae,juvenile,NA
+1,11,2018-01-24,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12570,PA012,Leptodactylus mystaceus,Anura,Leptodactylidae,juvenile,NA
+1,11,2018-01-24,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12571,PA013,Leptodactylus fuscus,Anura,Leptodactylidae,juvenile,NA
+1,11,2018-01-24,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12573,PA015,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,11,2018-01-24,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12574,PA016,Rhinella schneideri,Anura,Bufonidae,juvenile,NA
+1,11,2018-01-24,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12575,PA017,Leptodactylus mystacinus,Anura,Leptodactylidae,juvenile,NA
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12801,PA084,Leptodactylus labyrintycus,Anura,Leptodactylidae,juvenile,NA
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12803,PA085,Leptodactylus mystaceus,Anura,Leptodactylidae,juvenile,NA
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12804,PA086,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12805,PA087,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12807,PA088,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12808,PA089,Leptodactylus mystaceus,Anura,Leptodactylidae,juvenile,NA
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12809,PA090,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12810,PA091,Boana albopunctata,Anura,Hylidae,adult,male
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12811,PA092,Boana albopunctata,Anura,Hylidae,adult,male
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12812,PA093,Physalaemus cuvieri,Anura,Leptodactylidae,adult,female
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12813,PA094,Leptodactylus mystaceus,Anura,Leptodactylidae,juvenile,NA
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12814,PA095,Leptodactylus mystaceus,Anura,Leptodactylidae,juvenile,NA
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12815,PA096,Dendropsophus cruzi,Anura,Hylidae,adult,male
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12816,PA097,Dendropsophus cruzi,Anura,Hylidae,adult,female
+1,11,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG12806,PA098,Rhinella schneideri,Anura,Bufonidae,adult,female
+1,11,2018-09-25,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG14335,PA130,Physalaemus nattereri,Anura,Leptodactylidae,adult,male
+1,11,2018-09-25,night,swamp,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG14231,PA131,Physalaemus atim,Anura,Leptodactylidae,adult,male
+1,11,2018-09-25,night,swamp,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG14232,PA132,Physalaemus atim,Anura,Leptodactylidae,adult,male
+1,11,2018-09-25,night,swamp,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG14243,PA133,Barycholos ternetzi,Anura,Craugastoridae,adult,male
+1,11,2018-09-25,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG14336,PA134,Physalaemus nattereri,Anura,Leptodactylidae,NA,male
+1,11,2018-09-25,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG14337,PA135,Physalaemus nattereri,Anura,Leptodactylidae,NA,male
+1,11,2018-09-25,night,permanent_pond,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG14173,PA136,Scinax fuscovarius,Anura,Hylidae,NA,male
+1,11,2018-09-25,night,swamp,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG14233,PA137,Physalaemus atim,Anura,Leptodactylidae,adult,female
+1,11,2018-09-25,night,swamp,riparian_forest,agriculture,-48.64,-16.6,active_search,ZUFG14234,PA138,Physalaemus atim,Anura,Leptodactylidae,adult,male
+1,12,2018-01-22,night,permanent_pond,riparian_forest,pasture,-48.69,-16.64,active_search,ZUFG12561,PA001,Dendropsophus cruzi,Anura,Hylidae,adult,NA
+1,12,2018-01-22,night,permanent_pond,riparian_forest,pasture,-48.69,-16.64,active_search,ZUFG12563,PA002,Leptodactylus latrans,Anura,Leptodactylidae,adult,NA
+1,12,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.69,-16.64,active_search,ZUFG14143,PA174,Rhinella rubescens,Anura,Bufonidae,adult,female
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14302,PA243,Elachistocleis cesarii,Anura,Microhylidae,adult,female
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14303,PA244,Elachistocleis cesarii,Anura,Microhylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14304,PA245,Elachistocleis cesarii,Anura,Microhylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14397,PA246,Dendropsophus rubicundulus,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14305,PA247,Dendropsophus rubicundulus,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14371,PA248,Scinax cf. similis,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14362,PA249,Scinax cf. similis,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14361,PA250,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14360,PA251,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14363,PA252,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14372,PA253,Scinax cf. similis,Anura,Hylidae,adult,NA
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14364,PA254,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14373,PA255,Scinax cf. similis,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14391,PA256,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14374,PA257,Scinax cf. similis,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14375,PA258,Scinax cf. similis,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14376,PA259,Scinax cf. similis,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14377,PA260,Scinax cf. similis,Anura,Hylidae,adult,NA
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14365,PA261,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14366,PA262,Scinax fuscovarius,Anura,Hylidae,adult,female
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14367,PA263,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14392,PA264,Scinax cf. similis,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14368,PA265,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14378,PA266,Scinax cf. similis,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14369,PA267,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14379,PA268,Scinax cf. similis,Anura,Hylidae,adult,male
+1,13,2019-01-26,night,temporary_pond,riparian_forest,pasture,-48.62,-16.6,active_search,ZUFG14370,PA269,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,14,2018-01-22,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG12562,PA003,Pthecopus hypochondrialis,Anura,Phyllomedusidae,adult,NA
+1,14,2018-03-07,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG12597,PA048,Pthecopus hypochondrialis,Anura,Phyllomedusidae,adult,male
+1,14,2018-03-07,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG12598,PA049,Scinax fuscomarginatus,Anura,Hylidae,adult,male
+1,14,2018-03-07,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG12599,PA050,Pthecopus hypochondrialis,Anura,Phyllomedusidae,adult,male
+1,14,2018-03-07,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG12600,PA051,Scinax fuscomarginatus,Anura,Hylidae,adult,male
+1,14,2018-03-07,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG12602,PA052,Boana albopunctata,Anura,Hylidae,adult,male
+1,14,2018-03-07,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG12603,PA053,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,14,2018-03-07,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG12604,PA054,Physalaemus nattereri,Anura,Leptodactylidae,adult,male
+1,14,2018-03-07,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG12605,PA055,Rhinella schneideri,Anura,Bufonidae,juvenile,NA
+1,14,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG14244,PA165,Barycholos ternetzi,Anura,Craugastoridae,adult,male
+1,14,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG14176,PA167,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,14,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG14182,PA168,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,14,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG14183,PA169,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,14,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG14184,PA170,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,14,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG14212,PA171,Scinax fuscovarius,Anura,Hylidae,adult,NA
+1,14,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG14213,PA172,Scinax fuscovarius,Anura,Hylidae,juvenile,NA
+1,14,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG14256,PA173,Scinax fuscovarius,Anura,Hylidae,adult,NA
+1,14,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.63,active_search,ZUFG14150-A,PA166,Barycholos ternetzi,Anura,Craugastoridae,adult,male
+1,15,2019-01-26,night,permanent_pond,pasture,pasture,-48.61,-16.68,active_search,ZUFG14301,PA242,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,16,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.61,active_search,ZUFG14142,PA159,Rhinella schneideri,Anura,Bufonidae,adult,male
+1,16,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.61,active_search,ZUFG14139,PA160,Boana albopunctata,Anura,Hylidae,adult,male
+1,16,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.61,active_search,ZUFG14140,PA161,Boana albopunctata,Anura,Hylidae,adult,male
+1,16,2018-01-23,night,permanent_pond,riparian_forest,pasture,-48.67,-16.61,active_search,ZUFG12572,PA014,Physalaemus nattereri,Anura,Leptodactylidae,adult,NA
+1,16,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.61,active_search,ZUFG14146,PA163,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,16,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.61,active_search,ZUFG14225,PA162,Pthecopus hypochondrialis,Anura,Phyllomedusidae,adult,male
+1,16,2018-09-26,night,permanent_pond,riparian_forest,pasture,-48.67,-16.61,active_search,ZUFG14211,PA164,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,17,2018-09-27,night,temporary_pond,riparian_forest,urban_settlement,-48.6,-16.65,active_search,ZUFG14195,PA209,Leptodactylus fuscus,Anura,Leptodactylidae,adult,male
+1,17,2018-09-27,night,temporary_pond,riparian_forest,urban_settlement,-48.6,-16.65,active_search,ZUFG14252,PA211,Physalaemus cf. centralis,Anura,Leptodactylidae,adult,male
+1,17,2018-09-27,night,temporary_pond,riparian_forest,urban_settlement,-48.6,-16.65,active_search,ZUFG14248,PA213,Physalaemus cf. centralis,Anura,Leptodactylidae,adult,male
+1,17,2018-09-27,night,temporary_pond,riparian_forest,urban_settlement,-48.6,-16.65,active_search,ZUFG14196,PA214,Leptodactylus fuscus,Anura,Leptodactylidae,adult,male
+1,17,2018-09-27,night,temporary_pond,riparian_forest,urban_settlement,-48.6,-16.65,active_search,ZUFG14197,PA215,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,17,2018-09-27,night,temporary_pond,riparian_forest,urban_settlement,-48.6,-16.65,active_search,ZUFG14198,PA216,Leptodactylus fuscus,Anura,Leptodactylidae,adult,NA
+1,17,2018-09-27,night,temporary_pond,riparian_forest,urban_settlement,-48.6,-16.65,active_search,ZUFG14261,PA217,Leptodactylus fuscus,Anura,Leptodactylidae,juvenile,NA
+1,17,2018-09-27,night,temporary_pond,riparian_forest,urban_settlement,-48.6,-16.65,active_search,ZUFG14138,PA210,Leptodactylus fuscus,Anura,Leptodactylidae,adult,male
+1,17,2018-09-27,night,temporary_pond,riparian_forest,urban_settlement,-48.6,-16.65,active_search,ZUFG14148,PA212,Physalaemus cf. centralis,Anura,Leptodactylidae,adult,female
+1,18,2018-09-24,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG14144,PA113,Boana lundii,Anura,Hylidae,adult,male
+1,18,2018-01-25,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG11430,PA021,Pseudopaludicola sp.,Anura,Leptodactylidae,adult,female
+1,18,2018-01-25,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG11431,PA022,Pseudopaludicola sp.,Anura,Leptodactylidae,adult,male
+1,18,2018-01-25,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG12579,PA023,Scinax aff. fuscomarginatus,Anura,Hylidae,adult,male
+1,18,2018-01-25,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG12580,PA024,Scinax aff. fuscomarginatus,Anura,Hylidae,adult,male
+1,18,2018-01-25,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG12581,PA025,Scinax aff. fuscomarginatus,Anura,Hylidae,adult,male
+1,18,2018-03-06,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG12582,PA026,Leptodactylus latrans,Anura,Leptodactylidae,juvenile,NA
+1,18,2018-03-06,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG12583,PA027,Leptodactylus labyrintycus,Anura,Leptodactylidae,juvenile,NA
+1,18,2018-03-06,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG12584,PA028,Scinax aff. fuscomarginatus,Anura,Hylidae,adult,male
+1,18,2018-03-06,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG12585,PA029,Scinax aff. fuscomarginatus,Anura,Hylidae,adult,male
+1,18,2018-03-06,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG12601,PA030,Chiasmocleis albopunctatus,Anura,Microhylidae,adult,NA
+1,18,2018-03-06,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG11432,PA031,Pseudopaludicola sp.,Anura,Leptodactylidae,adult,male
+1,18,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG12817,PA099,Pseudopaludicola sp.,Anura,Leptodactylidae,adult,NA
+1,18,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG12818,PA100,Pseudopaludicola sp.,Anura,Leptodactylidae,juvenile,NA
+1,18,2018-03-14,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG12819,PA101,Pseudopaludicola sp.,Anura,Leptodactylidae,adult,NA
+1,18,2018-09-24,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG14217,PA109,Boana albopunctata,Anura,Hylidae,adult,male
+1,18,2018-09-24,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG14199,PA110,Scinax fuscovarius,Anura,Hylidae,adult,male
+1,18,2018-09-24,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG14241,PA111,Barycholos ternetzi,Anura,Craugastoridae,adult,NA
+1,18,2018-09-24,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG14242,PA112,Barycholos ternetzi,Anura,Craugastoridae,adult,NA
+1,18,2018-09-24,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG14253,PA114,Scinax cf. fuscomarginatus,Anura,Hylidae,adult,male
+1,18,2018-09-24,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG14218,PA115,Boana albopunctata,Anura,Hylidae,adult,male
+1,18,2018-09-24,night,permanent_pond,riparian_forest,agriculture,-48.68,-16.75,active_search,ZUFG14254,PA116,Scinax cf. fuscomarginatus,Anura,Hylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14385,PA218,Scinax cf. similis,Anura,Hylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14386,PA219,Scinax cf. similis,Anura,Hylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14380,PA220,Scinax cf. similis,Anura,Hylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14387,PA221,Scinax cf. similis,Anura,Hylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14388,PA222,Scinax cf. similis,Anura,Hylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14381,PA223,Scinax cf. similis,Anura,Hylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14395,PA224,Scinax cf. similis,Anura,Hylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14389,PA225,Scinax cf. similis,Anura,Hylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14390,PA226,Scinax cf. similis,Anura,Hylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14288,PA227,Dendropsophus rubicundulus,Anura,Hylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14289,PA228,Dendropsophus rubicundulus,Anura,Hylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14290,PA229,Dendropsophus rubicundulus,Anura,Hylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14287,PA230,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14396,PA231,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,19,2019-01-25,night,swamp,bare_soil,agriculture,-48.66,-16.58,active_search,ZUFG14291,PA232,Elachistocleis cesarii,Anura,Microhylidae,adult,male
+1,20,2019-01-25,night,temporary_pond,bare_soil,agriculture,-48.69,-16.61,active_search,ZUFG14292,PA233,Dendropsophus minutus,Anura,Hylidae,adult,male
+1,20,2019-01-25,night,temporary_pond,bare_soil,agriculture,-48.69,-16.61,active_search,ZUFG14293,PA234,Physalaemus nattereri,Anura,Leptodactylidae,adult,female
+1,20,2019-01-25,night,temporary_pond,bare_soil,agriculture,-48.69,-16.61,active_search,ZUFG14294,PA235,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,20,2019-01-25,night,temporary_pond,bare_soil,agriculture,-48.69,-16.61,active_search,ZUFG14295,PA236,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,20,2019-01-25,night,temporary_pond,bare_soil,agriculture,-48.69,-16.61,active_search,ZUFG14296,PA237,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,20,2019-01-25,night,temporary_pond,bare_soil,agriculture,-48.69,-16.61,active_search,ZUFG14297,PA238,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,20,2019-01-25,night,temporary_pond,bare_soil,agriculture,-48.69,-16.61,active_search,ZUFG14298,PA239,Pthecopus hypochondrialis,Anura,Phyllomedusidae,adult,male
+1,21,2019-01-29,night,permanent_pond,riparian_forest,pasture,-48.64,-16.74,active_search,ZUFG14382,PA293,Scinax cf. similis,Anura,Hylidae,adult,NA
+1,21,2019-01-29,night,permanent_pond,riparian_forest,pasture,-48.64,-16.74,active_search,ZUFG14328,PA300,Dendropsophus rubicundulus,Anura,Hylidae,adult,male
+1,22,2019-01-31,night,temporary_pond,savanna,agriculture,-48.66,-16.7,active_search,ZUFG14356,PA318,Leptodactylus fuscus,Anura,Leptodactylidae,adult,male
+1,22,2019-01-31,night,temporary_pond,savanna,agriculture,-48.66,-16.7,active_search,ZUFG14357,PA319,Leptodactylus fuscus,Anura,Leptodactylidae,adult,male
+1,22,2019-01-31,night,temporary_pond,savanna,agriculture,-48.66,-16.7,active_search,ZUFG14358,PA320,Leptodactylus mystacinus,Anura,Leptodactylidae,adult,NA
+1,24,2019-01-29,night,temporary_pond,bare_soil,pasture,-48.6,-16.72,active_search,ZUFG14323,PA294,Elachistocleis cesarii,Anura,Microhylidae,adult,NA
+1,24,2019-01-29,night,temporary_pond,bare_soil,pasture,-48.6,-16.72,active_search,ZUFG14309,PA295,Leptodactylus furnarius,Anura,Leptodactylidae,adult,male
+1,24,2019-01-29,night,temporary_pond,bare_soil,pasture,-48.6,-16.72,active_search,ZUFG14324,PA296,Pseudopaludicola facureae,Anura,Leptodactylidae,adult,female
+1,24,2019-01-29,night,temporary_pond,bare_soil,pasture,-48.6,-16.72,active_search,ZUFG14325,PA297,Leptodactylus labyrintycus,Anura,Leptodactylidae,juvenile,NA
+1,24,2019-01-29,night,temporary_pond,bare_soil,pasture,-48.6,-16.72,active_search,ZUFG14326,PA298,Leptodactylus labyrintycus,Anura,Leptodactylidae,juvenile,NA
+1,24,2019-01-29,night,temporary_pond,bare_soil,pasture,-48.6,-16.72,active_search,ZUFG14327,PA299,Dendropsophus cf. jimi,Anura,Hylidae,adult,NA
+1,24,2019-01-29,night,temporary_pond,bare_soil,pasture,-48.6,-16.72,active_search,ZUFG14329,PA301,Dendropsophus cf. jimi,Anura,Hylidae,adult,NA
+1,24,2019-01-29,night,temporary_pond,bare_soil,pasture,-48.6,-16.72,active_search,ZUFG14330,PA302,Dendropsophus cf. jimi,Anura,Hylidae,adult,male
+1,24,2019-01-29,night,temporary_pond,bare_soil,pasture,-48.6,-16.72,active_search,ZUFG14331,PA303,Dendropsophus cf. jimi,Anura,Hylidae,adult,male
+1,24,2019-01-29,night,temporary_pond,bare_soil,pasture,-48.6,-16.72,active_search,ZUFG14332,PA304,Dendropsophus cf. jimi,Anura,Hylidae,adult,male
+1,24,2019-01-29,night,temporary_pond,bare_soil,pasture,-48.6,-16.72,active_search,ZUFG14333,PA305,Dendropsophus cf. jimi,Anura,Hylidae,adult,male
+1,24,2019-01-29,night,temporary_pond,bare_soil,pasture,-48.6,-16.72,active_search,ZUFG14346,PA306,Leptodactylus latrans,Anura,Leptodactylidae,juvenile,NA
+1,25,2018-09-27,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG14149,PA187,Physalaemus cuvieri,Anura,Leptodactylidae,adult,female
+1,25,2018-03-08,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG12777,PA059,Rhinella schneideri,Anura,Bufonidae,juvenile,NA
+1,25,2018-03-08,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG12778,PA060,Boana goiana,Anura,Hylidae,adult,male
+1,25,2018-09-27,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG14245,PA177,Barycholos ternetzi,Anura,Craugastoridae,adult,NA
+1,25,2018-09-27,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG14246,PA178,Barycholos ternetzi,Anura,Craugastoridae,adult,NA
+1,25,2018-09-27,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG14223,PA179,Boana albopunctata,Anura,Hylidae,adult,male
+1,25,2018-09-27,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG14224,PA180,Boana albopunctata,Anura,Hylidae,adult,female
+1,25,2018-09-27,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG14257,PA181,Leptodactylus sp.,Anura,Leptodactylidae,adult,NA
+1,25,2018-09-27,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG14235,PA182,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,25,2018-09-27,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG14236,PA183,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,25,2018-09-27,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG14237,PA184,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,25,2018-09-27,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG14251,PA185,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,25,2018-09-27,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG14138,PA186,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,25,2018-09-27,night,permanent_pond,riparian_forest,agriculture,-48.67,-16.68,active_search,ZUFG14239,PA188,Physalaemus cuvieri,Anura,Leptodactylidae,adult,male
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14345,PA275,Boana albopunctata,Anura,Hylidae,adult,male
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14306,PA276,Leptodactylus latrans,Anura,Leptodactylidae,juvenile,NA
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14308,PA277,Leptodactylus latrans,Anura,Leptodactylidae,juvenile,NA
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14307,PA278,Leptodactylus latrans,Anura,Leptodactylidae,juvenile,NA
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14334,PA279,Dendropsophus jimi,Anura,Hylidae,adult,male
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14310,PA280,Dendropsophus jimi,Anura,Hylidae,adult,male
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14311,PA281,Dendropsophus jimi,Anura,Hylidae,adult,male
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14312,PA282,Dendropsophus jimi,Anura,Hylidae,adult,male
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14313,PA283,Dendropsophus jimi,Anura,Hylidae,adult,male
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14314,PA284,Scinax fuscomarginatus,Anura,Hylidae,adult,male
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14316,PA285,Scinax fuscomarginatus,Anura,Hylidae,adult,male
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14317,PA286,Pseudopaludicola facureae,Anura,Leptodactylidae,adult,NA
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14315,PA287,Pseudopaludicola facureae,Anura,Leptodactylidae,adult,NA
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14318,PA288,Pseudopaludicola facureae,Anura,Leptodactylidae,adult,NA
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14319,PA289,Pseudopaludicola facureae,Anura,Leptodactylidae,adult,NA
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14320,PA290,Pseudopaludicola facureae,Anura,Leptodactylidae,adult,NA
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14321,PA291,Pseudopaludicola facureae,Anura,Leptodactylidae,adult,NA
+1,26,2019-01-28,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14322,PA292,Pseudopaludicola facureae,Anura,Leptodactylidae,juvenile,NA
+1,26,2019-04-08,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14281,PA325,Pseudopaludicola facureae,Anura,Leptodactylidae,adult,NA
+1,26,2019-04-09,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14282,PA326,Pseudopaludicola facureae,Anura,Leptodactylidae,adult,NA
+1,26,2019-04-10,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14283,PA327,Pseudopaludicola facureae,Anura,Leptodactylidae,adult,NA
+1,26,2019-04-11,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14284,PA328,Pseudopaludicola facureae,Anura,Leptodactylidae,adult,NA
+1,26,2019-04-12,night,permanent_pond,riparian_forest,agriculture,-48.7,-16.68,active_search,ZUFG14285,PA329,Pseudopaludicola facureae,Anura,Leptodactylidae,adult,NA
+1,28,2019-02-01,night,permanent_pond,riparian_forest,pasture,-48.53,-16.65,active_search,ZUFG14354,PA316,Boana albopunctata,Anura,Hylidae,adult,male
+1,28,2019-02-01,night,permanent_pond,riparian_forest,pasture,-48.53,-16.65,active_search,ZUFG14355,PA317,Boana albopunctata,Anura,Hylidae,adult,male

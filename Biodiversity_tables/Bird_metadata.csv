@@ -1,0 +1,52 @@
+Metadata for birds survey October/2017 to February/2019 (project phase 1) and January/2021 to January/2022 (project phase 2),,
+birds were identified by Dr. Andre L. Teixeira ,,
+data curated by Professor Rosane G Collevatti,,
+all individuals captured in phase 1 were ringed using CEMAVE (Brazilian center for birds monitoring) rings. In project phase 2 CEMAVE provided no rings,,
+,,
+mist_net_survey sheet,,raw data of bird survey captured using mist net
+,project_phase,project phase: 1 - corresponds to the time period between 2017 and 2019. 2 - corresponds to the time period between 2021 and 2023
+,plot_number,identification number of the sampling site where the mist net was set
+,date,date (DD/MM/YYYY) when the mist net survey was performed
+,time,"time of day (Hour:Minutes) or dayligh (8 hours a dayfrom 6:00 h to 11;00 h, and 15:00 h to 18:00 h) when mist net was opened for nird capture"
+,vegetation_type,"type of vegetation savanna, sdtf - seasonally dry tropical  forest, riparian forest, forested savanna, or forest corresponding to sdtf or riparian forest"
+,survey_method,method to capture mist net
+,survey_location,"location of the mist-net in the landscape - core - mist nets were set in the core of the natural vegetation remnant, edge -mist nets were set in the natural vegetation remnant, matrix - mist nets were set in the matrix"
+,season,climatic season in the Neotropics - wet (summer) or dry (winter and spring)
+,crop_cycle,crop management cycle - fallow and crop_growth
+,Species_abundance,number of individuals of each species capture in mid nest
+,Species,species identification
+,ring_letter,"ring identification, letter code, missing data (NA)"
+,ring_number,"ring identification, number code, missing data (NA)"
+,,
+mist_net_recapture sheet,,raw data of bird survey that were recaptured using mist net
+,project_phase,project phase: 1 - corresponds to the time period between 2017 and 2019. 2 - corresponds to the time period between 2021 and 2023
+,plot_number,identification number of the sampling site where the mist net was set
+,date,date (DD/MM/YYYY) when the mist net survey was performed
+,time,"time of day (Hour:Minutes) when the mist net was set for bird capture,or daylight - from 6:00 to 17:00"
+,vegetation_type,"type of vegetation savanna, sdtf - seasonally dry tropical  forest, riparian forest, forested savanna, or forest corresponding to sdtf or riparian forest"
+,survey_method,method to capture mist net
+,survey_location,"location of the mist-net in the landscape - core - mist nets were set in the core of the natural vegetation remnant, edge -mist nets were set in the natural vegetation remnant, matrix - mist nets were set in the matrix"
+,season,climatic season in the Neotropics - wet (summer) or dry (winter and spring)
+,crop_cycle,crop management cycle - fallow and crop_growth
+,Species_abundance,number of individuals of each species capture in mid nest
+,Species,species identification
+,ring_letter,"ring identification, letter code, missing data (NA)"
+,ring_number,"ring identification, number code, missing data (NA)"
+,,
+transect_survey sheet,,raw data of bird survey using bird sighting performed after mist net sampling for 30 minutes
+,project_phase,project phase: 1 - corresponds to the time period between 2017 and 2019. 2 - corresponds to the time period between 2021 and 2023
+,plot_number,"identification number of the sampling sites where the transect was set; the first number corresponds to the sampling site where the transect started, and the second number where the transect ended"
+,date,date (DD/MM/YYYY) when the mist net survey was performed
+,long_start,"longitude coordinate in decimal degrees, corresponding to the sampling site where the transect started"
+,lat_start,"latitude coordinate in decimal degrees, corresponding to the sampling site where the transect started"
+,long_end,"longitude coordinate in decimal degrees, corresponding to the sampling site where the transect ended"
+,lat_end,"latitude coordinate in decimal degrees, corresponding to the sampling site where the transect ended"
+,long_centre,"longitude coordinate in decimal degrees, corresponding to the transect centre"
+,lat_centre,"latitude coordinate in decimal degrees, corresponding to the transect centre"
+,Species,species identification
+,,
+plot_information sheet,,plot information
+,project_phase,project phase: 1 - corresponds to the time period between 2017 and 2019. 2 - corresponds to the time period between 2021 and 2023
+,plot_number,"identification number of the sampling sites where the transect was set; the first number corresponds to the sampling site where the transect started, and the second number where the transect ended"
+,Long,"longitude coordinate in decimal degrees, corresponding to the plot location"
+,Lat,"latitude coordinate in decimal degrees, corresponding to the plot location"
