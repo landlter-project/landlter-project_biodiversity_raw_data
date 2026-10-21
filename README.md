@@ -17,7 +17,25 @@ and medium and large mammals). Also, non-invasive methods for biodiversity monit
 <p>The LAND LTER project is led by <a href="https://collevattilab.com/">Prof. Rosane Collevatti</a> at Universidade Federal de Goiás (UFG)
 </p>
 <h3>All biodiversity raw data obtained since 2016 are available in this repository for download</h3>
+<h1>To plot biodiversity data in R program</h1>
+<p align="justify">
+<ol>
+  <li>In your computer, create a folder named <code>Biodiversity_tables</code></li>
+  <li> In this folder save the script: <a href="https://github.com/landlter-project/landlter-project_biodiversity_raw_data/blob/main/Biodiversity_tables/plot_biodiversity.R"><code>plot_biodiversity.R</code></li>
+  <li>Open the script in RStudio</li>
+  <li>Go to <strong>Session → Set Working Directory → To Source File Location</strong></li>
+  <li>Click in <strong>Source</strong></li>
+</ol>
 
+<h1>To overlap the biodiversity data and land use type in R program</h1>
+<p align="justify">
+<ol>
+  <li>In your computer, create a folder named <code>spatial_data</code></li>
+  <li> In this folder save the script: <a href="https://github.com/landlter-project/landlter-project_biodiversity_raw_data/blob/main/spatial_data/vegetation_type_in_points.R"><code>vegetation_type_in_points.R</code></li>
+  <li>Open the script in RStudio</li>
+  <li>Go to <strong>Session → Set Working Directory → To Source File Location</strong></li>
+  <li>Click in <strong>Source</strong></li>
+</ol>
 <p><em>Please cite this repository and LAND LTER publications when using these data.</em></p>
 
 <h1>See LAND LTER publications here</h1>
