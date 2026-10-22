@@ -1,0 +1,23 @@
+Metadata for anura survey in waterbodies January/2018 to April/2019,,
+species were identified by Dr. Natan M Maciel, Dr Priscila Silveira and Dr. Werther P Ramalho,  and all captured individuals were deposited in UFG zoological collection
+data curated by Professor Rosane G Collevatti,,
+Survey performed in project phase 1 using active searching around water bodies,,
+,,
+anura_survey sheet,,raw data of anura survey
+,project_phase,project phase: 1 - corresponds to the time period between 2017 and 2019. 2 - corresponds to  2021 
+,plot_number,identification number of the sampling site where the pitfall was set or the active search was performed
+,date,date (DD-MM-YYYY) when the survey was performed
+,time,night (18:30 h to 24:00 h) when survey was performed
+,waterbody,"type of waterbody where the survey was performed, permanent pond, permanent damn, rivulet black water, temporary pond, swamp"
+,vegetation_type,"type of vegetation around the waterbody where the survey was performed, bare soil, riparian forest, Eucalyptus plantation, savanna, pasture"
+,landscape_matrix,"landscape matrix class: mining, agriculture, pasture, urban settlement"
+,Long,longitudinal coordinate of the plot center
+,Lat,latitudinal coordinate of the plot center
+,survey_method,method to capture the individuals - active search
+,voucher_number,number of the individual deposited in the zoological collection
+,individual_id,individual identification
+,Species,species identification
+,Order,Order
+,Family,Family
+,life_stage,"life stage, adult, juvenile, missing data (NA)"
+,gender,"male, female, missing data (NA)"
