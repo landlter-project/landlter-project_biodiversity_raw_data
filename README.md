@@ -16,7 +16,7 @@ and medium and large mammals). Also, non-invasive methods for biodiversity monit
 </p>
 <p>The LAND LTER project is led by <a href="https://collevattilab.com/">Prof. Rosane Collevatti</a> at Universidade Federal de Goiás (UFG)
 </p>
-<h3>All biodiversity raw data obtained since 2016 are available in <a href="https://github.com/landlter-project/landlter-project_biodiversity_raw_data/tree/main/Biodiversity_tables">this repository</a> for download.</h3>
+<h3>All biodiversity raw data obtained since 2016 are available in <a href="https://github.com/landlter-project/landlter-project_biodiversity_raw_data/tree/main/Biodiversity_tables">this repository</a> for download</h3>
 <h3>To download and plot biodiversity data using R program</h3>
 <p align="justify">
 <ol>
